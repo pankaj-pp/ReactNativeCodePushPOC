@@ -31,7 +31,7 @@ export default class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>Changed using CodePush</Text>
-        <Text style={styles.instructions}>{instructions}</Text>
+        <Text style={styles.instructions}>Ho Gaya na bhai</Text>
       </View>
     );
   }
